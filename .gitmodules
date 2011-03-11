@@ -1,0 +1,3 @@
+[submodule "ext/thumbs"]
+	path = ext/thumbs
+	url = git://github.com/mwbrooks/thumbs.js.git
